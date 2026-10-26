@@ -91,6 +91,7 @@ Showcases food items with images to make the menu visually appealing.
 
 4. Contact
 Displays contact information for visitors who want to reach the restaurant.
+
 ## 📸 Website Screenshots
 
 ### 🏠 Home Page
@@ -104,6 +105,7 @@ Displays contact information for visitors who want to reach the restaurant.
 
 ### 📞 Contact Section
 ![Bistro Bliss Contact Section](screenshots/Contact.png)
+
 
 📱 Responsive Design
 
