@@ -42,6 +42,10 @@ Restaurant/
 ├── images/pizza.jpg
 ├── images/pasta.jpg
 ├── images/dessert.jpg
+├── screenshots/Home.png
+├── screenshots/About.png
+├── screenshots/Menu.png
+├── screenshots/Contact.png
 └── README.md
 ```
 
@@ -87,6 +91,19 @@ Showcases food items with images to make the menu visually appealing.
 
 4. Contact
 Displays contact information for visitors who want to reach the restaurant.
+## 📸 Website Screenshots
+
+### 🏠 Home Page
+![Bistro Bliss Home Page](screenshots/Home.png)
+
+### 👨‍🍳 About Section
+![Bistro Bliss About Section](screenshots/About.png)
+
+### 🍕 Food Menu
+![Bistro Bliss Food Menu](screenshots/Menu.png)
+
+### 📞 Contact Section
+![Bistro Bliss Contact Section](screenshots/Contact.png)
 
 📱 Responsive Design
 
